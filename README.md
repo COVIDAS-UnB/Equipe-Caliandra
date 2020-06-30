@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=_Z7IZtshLzM&feature=youtu.be
 
 ## Descrição do Projeto
 
-(Clique aqui para baixar a descrição do projeto)[https://github.com/COVIDAS-UnB/Equipe-Caliandra/raw/master/Descri%C3%A7%C3%A3o%20do%20Projeto%20-%20Caliandra.pdf]
+[Clique aqui para baixar a descrição do projeto](https://github.com/COVIDAS-UnB/Equipe-Caliandra/raw/master/Descri%C3%A7%C3%A3o%20do%20Projeto%20-%20Caliandra.pdf)
 
 ## Intregrantes
 
